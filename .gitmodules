@@ -1,3 +1,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/datasci-info/covid19tw-data
+[submodule "dataviz"]
+	path = dataviz
+	url = https://github.com/datasci-info/covid19tw-dataviz
